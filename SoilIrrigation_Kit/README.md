@@ -19,6 +19,7 @@ Water Pump Circuit:
 └── Battery (+)        → COM on Relay
 
  📟 Code
+ 
 #define sensorPin A0    // Soil moisture sensor
 #define relayPin 3      // Relay control
 
